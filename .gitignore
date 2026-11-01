@@ -1,2 +1,3 @@
-# Raw datasets
-data/raw/
+!data/
+!data/raw/
+!data/raw/loan_data_2007_2014.csv
